@@ -15,9 +15,11 @@
     "next": "11.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-virtualized": "^9.22.3",
     "typescript": "^4.3.5"
   },
   "devDependencies": {
+    "@types/react-virtualized": "^9.21.13",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.0",
     "json-server": "^0.16.3"
